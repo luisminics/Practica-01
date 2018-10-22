@@ -70,4 +70,4 @@ Añadimos la siguiente sección dentro de las etiquetas de <VirtualHost *:80> y 
 
 sudo /etc/init.d/apache2 restart
 
-#### añado nuevo paso
+#### añado nuevo pas
